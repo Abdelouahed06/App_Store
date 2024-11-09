@@ -30,10 +30,8 @@ function AppInfo() {
             </div>
             <div className="descriptionSection">
                 <h5>description</h5>
-                <p>text text text text text text text text text text text text text text text text text text text text
-                    text text text text text text text text text texttext text text text text text text text text text
-                    text text text text text text text text text text text text text text text text text text text text
-                    text text text text text text text text text texttext text text text text text text text text text.
+                <p>
+                    text ................
                 </p>
             </div>
             <div className="aboutSection">
