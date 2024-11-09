@@ -4,6 +4,7 @@ function Applications({search}) {
     const [games, setGames] = useState([]);
   
     useEffect(() => {
+        // API 
       fetch("https://abdelouahed06.github.io/apiapps/apps.json")
         .then(response => response.json())
         .then(data => {
