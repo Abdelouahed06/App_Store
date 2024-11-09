@@ -26,26 +26,3 @@ function App() {
 }
 export default App;
 
-
-
-
-// import React from "react";
-// import "./App.css";
-// import NavBar from "./component/NavBar";
-// import Applications from "./component/apps";
-// // import ApplicationsList from "./component/appsList";
-// // import Categories from "./component/Categorie";
-// import Footer from "./component/footer";
-// function App() {
-//   return (
-//     <div>
-//        <NavBar/>
-//        <Applications/>
-//        {/* <ApplicationsList/> */}
-//        {/* <Categories/> */}
-//        <Footer/>
-//     </div>
-//   );
-// }
-
-// export default App;
